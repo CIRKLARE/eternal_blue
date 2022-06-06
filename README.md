@@ -1,7 +1,7 @@
 # eternal_blue
 eternal-blue vulnerability aslo known as MS_17_010
 
-# Exploits for metasploit-framework
+# Exploit smb-v1.0 using metasploit-framework
 
 exploit/windows/smb/ms17_010_eternalblue
 
