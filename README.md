@@ -19,7 +19,7 @@ auxiliary/scanner/smb/smb_ms17_010
 ![usage](https://github.com/CIRKLARE/eternal_blue/blob/main/useage.png)
 
 
-#  Tisting in vulnerable machine
+#  Testing in vulnerable machine
 
 
 ![testing](https://github.com/CIRKLARE/eternal_blue/blob/main/win7.PNG)
