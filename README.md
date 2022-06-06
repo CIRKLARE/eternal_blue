@@ -22,5 +22,5 @@ auxiliary/scanner/smb/smb_ms17_010
 #  Tisting in vulnerable machine
 
 
-!testing[](https://github.com/CIRKLARE/eternal_blue/blob/main/win7.PNG)
+![testing](https://github.com/CIRKLARE/eternal_blue/blob/main/win7.PNG)
 
